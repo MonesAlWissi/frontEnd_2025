@@ -1,0 +1,68 @@
+
+            th{
+                color: rgb(250, 227, 18);
+                background-color: rgb(228, 20, 107);
+                
+            }
+            td{
+                color: rgb(29, 31, 29);
+                background-color: rgb(118, 56, 199);
+                font-size: xx-large;
+            }
+            tr{
+
+                background-color: aqua;
+            }
+            #you{
+                background-color: red;
+            }
+            .fac{
+                background-color: blue;
+                color: black;
+            }
+            .go{
+                background-color: yellowgreen;
+            }
+
+
+      
+            .m{
+                background-color: chartreuse;
+            }
+            .k{
+                background-color: blue;
+            }
+            #b{
+                background-color: blueviolet;
+            }
+            #testp{
+                color: wheat;
+                background-color: blue;
+                padding: 6px;
+                margin: 50px;
+                padding-left: 100px;
+            }
+            #testbutton{
+                padding: 10px;
+                width: 100px;
+                height: 30px;
+                 margin-left: 500px;
+                 
+               
+            }
+            #firstdiv > h1{
+                color: red;
+            }
+            #contenr {
+                text-align: center;
+
+
+
+            }
+            #firstdiv ,#secondDiv{
+                display: inline-block;
+                width: 45%;
+            }
+
+
+      
